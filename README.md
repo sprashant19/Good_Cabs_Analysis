@@ -2,6 +2,7 @@
 
 GoodCabs, a cab service company established two years ago, has gained a strong foothold in the Indian market by focusing on tier 2 Cities. Goodcabs managemnet team aims to assess the company's performance across key metrics, including tip volume, passenger satisfaction, repeat passenger rate, trip distribution and the balance between new & repeat passengers.
 
+Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=c9fdceb5-4a85-4d84-ac25-c1a7ebd7cbc7&autoAuth=true&ctid=43c2ee52-11a1-494f-9c38-23b5394f391c
 
 ![image](https://github.com/user-attachments/assets/413125b3-0437-45f2-ba11-6b5d33f83878)
 
